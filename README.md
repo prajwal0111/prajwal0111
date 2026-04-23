@@ -100,9 +100,7 @@ $ cat current_project.txt
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=prajwal0111&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7B61FF&icon_color=7B61FF&text_color=c9d1d9" />
-&nbsp;&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal0111&layout=compact&hide_border=true&bg_color=0d1117&title_color=7B61FF&text_color=c9d1d9" />
+
 
 <br/><br/>
 
